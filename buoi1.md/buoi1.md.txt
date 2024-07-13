@@ -1,0 +1,54 @@
+* Python là một ngôn ngữ lập trình thông dịch, dễ đọc và dễ hiểu. Nó được sử dụng rộng rãi trong nhiều lĩnh vực như phát triển web,
+khoa hoc dữ liệu và trí tuệ nhân tạo.
+* Các kiểu dữ liệu trong Python
+    -Kiểu dữ liệu số:
+        Số nguyên(integer): không giới hạn về giá trị và thường được in ra dưới dạng cơ số 10
+        Số thực dấu phẩy động(float)
+        Số phức(complex)
+    -Kiểu xâu ký tự(str)
+* Các toán tử 
+    -Toán tử gán: =
+    -Toán tử toán học: 
+        Phép cộng: +
+        Phép trừ: -
+        Phép nhân: *
+        Phép chia thập phân: /
+        Phép chia nguyên: //
+        Phép chia dư: %
+        Lũy thừa: **
+    -Toán tử so sánh: ==, >, >=, <, <=, !=
+    -Toán tử logic: and, or, not
+    -Toán tử nhận dạng: 
+        Trả về true nếu 2 đối tượng là giống nhau: is
+        Trả về true nếu 2 đối tượng là khác nhau: is not
+    -Toán tử thành viên(được dùng để kiểm tra sự tồn tại của một đối tượng trong list, xâu, tuple,.. )
+        Trả về true nếu đối tượng tồn tại: in
+        Trả về true nếu đối tượng không tồn tại: not in
+* Mệnh đề điều kiện và vòng lặp
+    -Câu lệnh if:
+        Cú pháp:
+            if(biểu thức):
+                các câu lệnh
+    -Câu lệnh If..elif..else:
+        Cú pháp:
+            if (biểu thức 1):
+                các câu lệnh
+            elif (biểu thức 2):
+                các câu lệnh
+            elif (biểu thức n):
+                các câu lệnh
+            else:
+                các câu lệnh
+    -Vòng lặp while:
+        Cú pháp:
+            while(biểu thức):
+                các câu lệnh
+    -Vòng lặp for:
+        Cú pháp:
+           for biến lặp in tập hợp:
+                các câu lệnh
+*Kiêu dữ liệu True, False
+    -True: giá trị đúng
+    -False: giá trị sai
+    
+   
