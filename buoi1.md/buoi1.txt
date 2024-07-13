@@ -50,5 +50,3 @@ khoa hoc dữ liệu và trí tuệ nhân tạo.
 *Kiêu dữ liệu True, False
     -True: giá trị đúng
     -False: giá trị sai
-    
-   
