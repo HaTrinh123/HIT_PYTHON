@@ -1,6 +1,8 @@
 * Python là một ngôn ngữ lập trình thông dịch, dễ đọc và dễ hiểu. Nó được sử dụng rộng rãi trong nhiều lĩnh vực như phát triển web,
 khoa hoc dữ liệu và trí tuệ nhân tạo.
-    Python là ngôn ngữ lập trình thông dịch vì nó thực hiện các đoạn mã nguồn trực tiếp thông qua một chương trình thông dịch, thay vì biên dịch toàn bộ mã nguồn thành mã máy trước khi thực thi. Python thực hiện mã nguồn từng dòng một cách tuần tự, khi gặp một lỗi, quá trình thực thi sẽ dừng lại và báo lỗi ngay lập tức.
+    -Python là ngôn ngữ lập trình thông dịch vì nó thực hiện các đoạn mã nguồn trực tiếp thông qua một chương trình thông dịch,
+     thay vì biên dịch toàn bộ mã nguồn thành mã máy trước khi thực thi. Python thực hiện mã nguồn từng dòng một cách tuần tự
+     khi gặp một lỗi, quá trình thực thi sẽ dừng lại và báo lỗi ngay lập tức.
 * Các kiểu dữ liệu trong Python
     -Kiểu dữ liệu số:
         Số nguyên(integer): không giới hạn về giá trị và thường được in ra dưới dạng cơ số 10
