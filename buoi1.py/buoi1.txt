@@ -1,0 +1,5 @@
+l = [1, 2, 3]
+print(type[1])
+print(l[1])
+t = (1)
+print(type(t))
